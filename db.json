@@ -50,6 +50,20 @@
       "name": "Pants",
       "price": 100,
       "id": 3
+    },
+    {
+      "name": "Anshul-Singla",
+      "brand": "Aggarwal",
+      "password": "123@singla",
+      "price": "1200",
+      "color": "white",
+      "category": "mens",
+      "discount": "10%",
+      "rating": "4.2",
+      "votes": "12.5k",
+      "size": "XS,S,M,L,XL,XXL,XXXL",
+      "image": "https://rukminim1.flixcart.com/image/580/696/xif0q/shirt/y/p/8/m-mss22eppcsh065a-metronaut-original-imagdebz7wxsycpu-bb.jpeg?q=50",
+      "id": 4
     }
   ],
   "hospitals": [
@@ -83,21 +97,7 @@
       "salary": "500000"
     }
   ],
- 
   "ecom-products": [
-    {
-      "name": "Metronaut Formal",
-      "brand": "Metronaut",
-      "id": "0",
-      "price": "1200",
-      "color": "white",
-      "category": "mens",
-      "discount": "10%",
-      "rating": "4.2",
-      "votes": "12.5k",
-      "size": "XS,S,M,L,XL,XXL,XXXL",
-      "image": "https://rukminim1.flixcart.com/image/580/696/xif0q/shirt/y/p/8/m-mss22eppcsh065a-metronaut-original-imagdebz7wxsycpu-bb.jpeg?q=50"
-    },
     {
       "name": "Spark Formal",
       "brand": "Spark",
@@ -526,6 +526,20 @@
       "votes": "18.5k",
       "size": "XS,S,M,L,XL,XXL,XXXL",
       "image": "https://rukminim1.flixcart.com/image/580/696/k0zlsi80/t-shirt/t/x/4/m-9740097-roadster-original-imafkgaawfdw6rea.jpeg?q=50"
+    },
+    {
+      "name": "Anshul-Singla",
+      "brand": "Aggarwal",
+      "price": "1200",
+      "color": "white",
+      "category": "mens",
+      "discount": "10%",
+      "rating": "4.2",
+      "votes": "12.5k",
+      "size": "XS,S,M,L,XL,XXL,XXXL",
+      "image": "https://rukminim1.flixcart.com/image/580/696/xif0q/shirt/y/p/8/m-mss22eppcsh065a-metronaut-original-imagdebz7wxsycpu-bb.jpeg?q=50",
+      "id": "bCUTiidAl"
     }
-  ]
+  ],
+  "users": []
 }
