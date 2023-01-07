@@ -22,3 +22,15 @@ exec(command, (err, stdout, stderr) => {
 // server.listen(3000, () => {
 //   console.log('JSON Server is running')
 // })
+// let res = await fetch(
+//   `https://json-ufdt.onrender.com/cars/${el.id}`,
+//   {
+//     method: "PATCH",
+//     headers: { "Content-Type": "application/json" },
+//     body: JSON.stringify({ price: edit }),
+//   }
+// );
+// let data = await res.json();
+// console.log(data);
+// getData();
+// }
