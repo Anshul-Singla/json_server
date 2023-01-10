@@ -587,11 +587,39 @@
       "age": 3,
       "place": "Banglore",
       "gender": "Female"
+    },
+    {
+      "id": 3,
+      "name": "tuffy",
+      "age": 9,
+      "place": "pune",
+      "gender": "Male"
+    },
+    {
+      "id": 4,
+      "name": "dollar",
+      "age": 2,
+      "place": "Yizag",
+      "gender": "Female"
+    },
+    {
+      "id": 5,
+      "name": "OKAY",
+      "age": 6,
+      "place": "Kanchipuram",
+      "gender": "Male"
+    },
+    {
+      "id": 6,
+      "name": "tuffy",
+      "age": 9,
+      "place": "ranchi",
+      "gender": "Male"
     }
   ],
   "admin":[
     {
-      
+
     }
   ]
 }
